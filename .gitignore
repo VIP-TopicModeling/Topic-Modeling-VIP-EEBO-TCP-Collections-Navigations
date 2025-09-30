@@ -6,3 +6,4 @@ __pycache__/
 /.vscode/
 pace-ice-scripts/wandb/
 matrices_and_visuals/vocab100k/*.csv
+matrices_and_visuals/vocab100k/*.txt
